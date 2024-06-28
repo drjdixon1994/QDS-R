@@ -1,5 +1,6 @@
 #Install ggplot
-install.packages("ggplot2")library(ggplot2)
+install.packages("ggplot2")
+library(ggplot2)
 
 #Create the data
 acyanotic<- c(13.1, 14.0, 13.0, 14.2, 11.0, 12.2, 13.1, 11.6, 14.2, 20.5, 13.4, 13.5, 11.6, 12.1, 13.5, 13.0, 14.1, 14.7, 12.8)
